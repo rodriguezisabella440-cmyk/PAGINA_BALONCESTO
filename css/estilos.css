@@ -186,7 +186,7 @@ body {
 .panel-izquierda {
   background-image:
     linear-gradient(160deg, rgba(14, 14, 14, 0.15) 30%, rgba(206, 17, 65, 0.85) 100%),
-    url("../img/LeBron-James-Los-Angeles-Lakers-Staples-Center-2019.webp");
+    url("../img/img/LeBron-James-Los-Angeles-Lakers-Staples-Center-2019.webp");
   background-size: cover;
   background-position: top;
 }
@@ -206,7 +206,7 @@ body {
 .panel-izquierda.azul {
   background-image:
     linear-gradient(160deg, rgba(14, 14, 14, 0.15) 30%, rgba(206, 17, 65, 0.85) 100%),
-    url("../img/8faafbe6-usatsi_2120524.jpg");
+    url("../img/img/8faafbe6-usatsi_2120524.jpg");
   background-position: center 45%;
 }
 
